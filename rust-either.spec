@@ -5,7 +5,7 @@
 
 Name:           rust-%{crate}
 Version:        1.6.1
-Release:        1
+Release:        2
 Summary:        Enum `Either` is a general purpose sum type with two cases
 
 # Upstream license specification: MIT/Apache-2.0
